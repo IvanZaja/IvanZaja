@@ -11,7 +11,7 @@ About me:
 ```js
 const senshi = {
   pronouns: "he" | "him",
-  name: "Iván Zaja Sánchez"
+  name: "Iván Zaja Sánchez",
   code: [Javascript, HTML, CSS],
   tools: [React, React Native, Node, Docker],
   learning: [Angular, Typescript]
